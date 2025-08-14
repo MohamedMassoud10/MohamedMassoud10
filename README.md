@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software engineer from Egypt :)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"/>
 
-- 🌱 I’m currently learning **Node.Js , MERN Stack**
+- 🌱 I’m currently learning **Nest.Js 😜**
 
 - 👨‍💻 All of my projects are available at [https://massoud-one.vercel.app](https://massoud-one.vercel.app)
 
